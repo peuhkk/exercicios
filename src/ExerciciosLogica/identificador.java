@@ -15,11 +15,11 @@ public class identificador {
             n1 = sc.nextInt();
 
             if (n1 < 0){
-                System.out.println("Seu número é Negativo");
+                System.out.println("Seu número é Negativo.");
             } else if(n1 > 0 ){
-                System.out.println("Seu numero é Positivo");
+                System.out.println("Seu numero é Positivo.");
             } else {
-                System.out.println("Seu numero é Zero");
+                System.out.println("Seu numero é Zero.");
             }
 
             sc.close();
