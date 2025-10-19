@@ -16,10 +16,10 @@ public class maiorDeDois {
         n2 = sc.nextInt();
 
         if (n1 > n2){
-            System.out.println("O maior entre os dois é o: " + n1);
+            System.out.println("O maior entre os dois é o: " + n1 + ".");
         }
         else {
-            System.out.println("O maior entre os dois é o: " + n2);
+            System.out.println("O maior entre os dois é o: " + n2 +".");
         }
 
         sc.close();
