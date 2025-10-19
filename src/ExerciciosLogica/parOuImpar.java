@@ -15,9 +15,9 @@ public class parOuImpar {
         numero = sc.nextDouble();
 
         if (numero % 2 == 0 ) {
-            System.out.println("O numero é par");
+            System.out.printf("O numero %.0f é PAR.", numero);
         }else {
-            System.out.println("O numero é impar");
+            System.out.printf("O numero %.0f é ÍMPAR.", numero);
         }
 
         sc.close();
