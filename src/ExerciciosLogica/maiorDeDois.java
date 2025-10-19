@@ -19,9 +19,10 @@ public class maiorDeDois {
             System.out.println("O maior entre os dois é o: " + n1);
         }
         else {
-            System.out.println("O maior entre os dois é o: "+  n2);
+            System.out.println("O maior entre os dois é o: " + n2);
         }
 
         sc.close();
+
     }
 }
